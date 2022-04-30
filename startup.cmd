@@ -1,0 +1,1 @@
+powershell C:\scripts\startup.ps1 >> C:\scripts\StartupLog.log
